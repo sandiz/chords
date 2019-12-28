@@ -1,5 +1,6 @@
 {
   "name": "chords",
+  "version": "0.0.1",
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.5.1"
